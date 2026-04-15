@@ -20,26 +20,26 @@ This project analyzes employee attrition using SQL, focusing on workforce trends
   
 ## Key Analyses
 1. Data Cleaning
-Identified inconsistencies in employee status vs exit dates
-Created a cleaned view with standardized employment status
+- Identified inconsistencies in employee status vs exit dates
+- Created a cleaned view with standardized employment status
 
 2. Headcount & Attrition
-Calculated historical and current headcount
-Built attrition rate using exits and workforce size
+- Calculated historical and current headcount
+- Built attrition rate using exits and workforce size
 
 3. Attrition by Business Unit
-Compared turnover across departments
-Ranked business units by attrition rate
+- Compared turnover across departments
+- Ranked business units by attrition rate
 
 4. Tenure Analysis
-Segmented employees into tenure buckets
-Identified early attrition patterns
+- Segmented employees into tenure buckets
+- Identified early attrition patterns
 
 5. Performance vs Attrition
-Analyzed whether high-performing employees are more likely to leave
-Measured contribution of each performance group to total attrition
+- Analyzed whether high-performing employees are more likely to leave
+- Measured contribution of each performance group to total attrition
 
 6. Year-over-Year Trend
-Used LAG() to calculate:
-YoY change (percentage points)
-YoY growth (%)
+- Used LAG() to calculate:
+- YoY change (percentage points)
+- YoY growth (%)
