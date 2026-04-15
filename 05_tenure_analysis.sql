@@ -1,3 +1,5 @@
+-- Depends on: employee_clean_vw (created in 01_data_cleaning.sql)
+
 -- Attrition by tenure buckets
 -- I analyzed attrition distribution across tenure buckets and 
 -- used window functions to calculate percentage contribution of each segment.
