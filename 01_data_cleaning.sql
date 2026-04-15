@@ -1,3 +1,7 @@
+-- 01_data_cleaning.sql
+-- Purpose: Clean and standardize employee dataset
+-- Description: Creates a cleaned view with consistent employment status and data quality flags
+
 -- DATA EXPLORATION
 -- To validate the integrity of the dataset, I verified that EmployeeID values are unique, 
 -- explored the distribution of key categorical fields such as EmployeeStatus, BusinessUnit, Title
