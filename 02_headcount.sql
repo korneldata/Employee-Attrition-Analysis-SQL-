@@ -1,3 +1,5 @@
+-- Depends on: employee_clean_vw (created in 01_data_cleaning.sql)
+
 -- 1. Headcount 
 -- 1.1 Current headcount
 
