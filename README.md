@@ -1,6 +1,15 @@
 # Employee-Attrition-Analysis-SQL-
 SQL | Data Analysis | HR Analytics
 
+## Project Structure
+- `01_data_cleaning.sql` – data cleaning and validation  
+- `02_headcount.sql` – headcount calculations  
+- `03_attrition_rate.sql` – overall attrition rate  
+- `04_attrition_by_business_unit.sql` – attrition by business unit  
+- `05_tenure_analysis.sql` – tenure-based attrition  
+- `06_performance_attrition.sql` – performance vs attrition  
+- `07_attrition_yoy.sql` – year-over-year trend analysis  
+
 ## Overview
 This project analyzes employee attrition using SQL, focusing on workforce trends, turnover drivers, and employee lifecycle metrics.
 
