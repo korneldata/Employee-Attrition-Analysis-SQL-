@@ -22,6 +22,7 @@ This project analyzes employee attrition using SQL, focusing on workforce trends
 1. Data Cleaning
 - Identified inconsistencies in employee status vs exit dates
 - Created a cleaned view with standardized employment status
+- All analyses are based on a cleaned dataset created in `01_data_cleaning.sql` as a view: `employee_clean_vw`.
 
 2. Headcount & Attrition
 - Calculated historical and current headcount
