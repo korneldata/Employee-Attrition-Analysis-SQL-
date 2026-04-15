@@ -9,7 +9,7 @@ This project analyzes employee attrition using SQL, focusing on workforce trends
 - Identify departments with the highest turnover
 - Analyze attrition by tenure and performance
 - Evaluate year-over-year changes in attrition
-- 
+  
 ## Techniques Used
 - SQL (CTEs, JOINs, aggregations)
 - Window functions:
