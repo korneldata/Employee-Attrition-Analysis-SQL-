@@ -1,3 +1,5 @@
+-- Depends on: employee_clean_vw (created in 01_data_cleaning.sql)
+
 -- Attrition per Business Unit
 -- Attrition was analyzed at the business unit level using year-end headcount and 
 -- ranked using window functions to identify departments with the highest turnover.
