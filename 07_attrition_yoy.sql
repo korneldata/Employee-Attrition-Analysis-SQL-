@@ -1,3 +1,5 @@
+-- Depends on: employee_clean_vw (created in 01_data_cleaning.sql)
+
 -- YoY attrition trend
 -- I calculated year-over-year changes in attrition using LAG to identify trends in employee turnover.
 
