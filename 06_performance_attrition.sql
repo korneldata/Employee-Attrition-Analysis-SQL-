@@ -1,3 +1,5 @@
+-- Depends on: employee_clean_vw (created in 01_data_cleaning.sql)
+
 -- Performance vs Attrition
 -- I compared attrition rates across performance groups and 
 -- identified which segments contribute most to total employee turnover
