@@ -1,3 +1,5 @@
+-- Depends on: employee_clean_vw (created in 01_data_cleaning.sql)
+
 -- Attrition rate
 -- Attrition rate was calculated using yearly employee snapshots and average headcount methodology, 
 -- ensuring consistency with standard HR analytics practices.
